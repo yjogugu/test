@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "954459929369",
+    "firebase_url": "https://coxld-39e18.firebaseio.com",
+    "project_id": "coxld-39e18",
+    "storage_bucket": "coxld-39e18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954459929369:android:6554fd4a02d45af8",
+        "android_client_info": {
+          "package_name": "com.example.yjo.coxld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954459929369-tj1sqdsgjf7f9423e0262dfem4rqhgsn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yjo.coxld",
+            "certificate_hash": "81eb4fbce30e7c863f44fccbf6f33cc7746226df"
+          }
+        },
+        {
+          "client_id": "954459929369-9phosqhjfk2ehthmhhpubiut3sbo8437.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUYDSCGYF8EU_XqAbs55VFGRhKWVRYOHw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954459929369-9phosqhjfk2ehthmhhpubiut3sbo8437.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
